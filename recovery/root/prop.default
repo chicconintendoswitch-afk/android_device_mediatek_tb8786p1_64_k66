@@ -1,0 +1,6 @@
+ro.product.brand=PIXGOOD
+ro.product.model=M103-EEA
+ro.product.manufacturer=Shenzhen_Beishida
+ro.hardware=mt6768
+ro.hardware.touchscreen=himax
+ro.sf.lcd_density=240
